@@ -1,0 +1,2 @@
+# wordhunt
+making wordhunt solvers
